@@ -1,0 +1,40 @@
+h3 {
+    color: white;
+    background-color: rgb(157, 194, 132);
+    margin: 50px 300px 20px 670px;
+    width: 250px;
+    height: 30px;
+    padding: 15px 80px 10px 80px;
+    text-align: center;
+    position: relative;
+  }
+  
+  #box {
+    width: 295px;
+    height: 40px;
+    border-width: 3px;
+    border-color: rgb(157, 194, 132);
+    border-style: solid;
+  
+  }
+  
+  #btn {
+    width: 100px;
+    height: 48px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(157, 194, 132);
+    border-width: 3px;
+    border-color: rgb(157, 194, 132);
+    border-style: solid;
+    background-color: white;
+  
+  }
+  
+  input {
+    display: inline-block;
+    margin-left: 670px;
+    margin-right: 5px;
+  }
+  
+  
