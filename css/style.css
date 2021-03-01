@@ -9,17 +9,16 @@ h3 {
     position: relative;
   }
   
-  #box {
-    width: 295px;
+  #input-box {
+    min-width: 295px;
     height: 40px;
     border-width: 3px;
     border-color: rgb(157, 194, 132);
     border-style: solid;
-  
   }
   
-  #btn {
-    width: 100px;
+  #add-btn {
+    min-width: 100px;
     height: 48px;
     text-align: center;
     font-size: 15px;
@@ -28,7 +27,6 @@ h3 {
     border-color: rgb(157, 194, 132);
     border-style: solid;
     background-color: white;
-  
   }
   
   input {
@@ -36,5 +34,27 @@ h3 {
     margin-left: 670px;
     margin-right: 5px;
   }
+  
+  table {
+    text-align: center;
+    margin-left: 670px;
+    padding: 20px 0 0 0;
+  }
+
+  .btn {
+    color: white;
+    background-color: red;
+    border-color: red;
+    border-style: solid;
+    margin-top: 20px;
+    margin-right: 10px;
+  }
+
+  tr {
+    text-align: left;
+  } 
+
+  
+  
   
   
